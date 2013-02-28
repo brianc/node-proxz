@@ -1,0 +1,5 @@
+--compilers coffee:coffee-script
+--bail
+--require should
+-R list
+--globals ___eio
