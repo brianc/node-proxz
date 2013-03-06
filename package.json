@@ -1,11 +1,8 @@
 {
   "name": "proxz",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "fetch http proxies from http://www.proxz.com",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
     "test": "./node_modules/.bin/mocha"
   },
