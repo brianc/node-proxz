@@ -1,5 +1,7 @@
 #proxz
 
+[![Build Status](https://travis-ci.org/brianc/node-proxz.png?branch=master)](https://travis-ci.org/brianc/node-proxz)
+
 Fetch a list of proxies from http://proxz.com
 
 ## api
